@@ -1,5 +1,6 @@
-fastfetch|1.0-1|x86_64||327592|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/fastfetch-1.0-1-x86_64.gris|1c2640f563ed1d9bbe008c0988b120edd6cb3dd343b542ad3d6f22ff8dba68a7
-musl|1.2.5-3|x86_64||1662296|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/musl-1.2.5-3-x86_64.gris|9f8f15421a665ca1b20349badd82db25f6556248e858f270af0eeff170b276e7
-nano|8.0-1|x86_64|ncurses musl|305284|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/nano-8.0-1-x86_64.gris|3abcaba6813956951fb3dd944bcc953b31e4b5cd3972b807606d1fb365c3b4b5
-ncurses|6.5-1|x86_64||779536|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/ncurses-6.5-1-x86_64.gris|2854a03140a09a0acaa68f2a15312bd0a61f2884ab8941b63d42e66247de0883
-tcc|0.9.27-1|x86_64|musl|270624|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/tcc-0.9.27-1-x86_64.gris|39a74c4ffb729e8771a3986194b7d2d24b3242030d9f40bf6ca8d7a7f8ffa5a0
+fastfetch||x86_64||327592|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/fastfetch-1.0-1-x86_64.gris|1c2640f563ed1d9bbe008c0988b120edd6cb3dd343b542ad3d6f22ff8dba68a7
+musl||x86_64||1662296|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/musl-1.2.5-3-x86_64.gris|9f8f15421a665ca1b20349badd82db25f6556248e858f270af0eeff170b276e7
+nano||x86_64|ncurses musl|305284|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/nano-8.0-1-x86_64.gris|3abcaba6813956951fb3dd944bcc953b31e4b5cd3972b807606d1fb365c3b4b5
+ncurses||x86_64||779536|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/ncurses-6.5-1-x86_64.gris|2854a03140a09a0acaa68f2a15312bd0a61f2884ab8941b63d42e66247de0883
+tcc||x86_64|musl|270624|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/tcc-0.9.27-1-x86_64.gris|39a74c4ffb729e8771a3986194b7d2d24b3242030d9f40bf6ca8d7a7f8ffa5a0
+tree||x86_64||86924|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/tree-2.1.1-1-x86_64.gris|2b8d1cd621c1fcb56c68c88fbfdb3fca6758f641bf50d260c1812a66ba40f204
