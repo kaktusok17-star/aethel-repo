@@ -1,7 +1,15 @@
 fastfetch|1.0-1|x86_64||327592|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/fastfetch-1.0-1-x86_64.gris|1c2640f563ed1d9bbe008c0988b120edd6cb3dd343b542ad3d6f22ff8dba68a7
 less|668-1|x86_64|ncurses|183416|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/less-668-1-x86_64.gris|3b01ac1f0d476f1e78c8e20cb516b9f2dfa3db077bb5d06b872935d0ff14d7a8
+libXau|1.0.11-1|x86_64|xorgproto|8004|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/libXau-1.0.11-1-x86_64.gris|f7936574db084616c75ca4fd94491951dec64172a969f3694ba642cd8ad8558d
+libXdmcp|1.1.5-1|x86_64|xorgproto|44072|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/libXdmcp-1.1.5-1-x86_64.gris|4b0c479c8efccf89fbfec71512269101a40990a78f39294205879497ebd82b94
+libpthread-stubs|0.5-1|x86_64|xorgproto|608|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/libpthread-stubs-0.5-1-x86_64.gris|ba31bc3cd54ca536ca97345e4b9d4b11145a8ee91b5009afeda5d3cfd9795be1
+libxcb|1.17.0-1|x86_64|xorgproto xcb-proto libXau libXdmcp|1120848|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/libxcb-1.17.0-1-x86_64.gris|5dfe02fc51d35226b176558f8599208bcc1c8879855d48ed4676ba9060f7add5
 musl|1.2.5-3|x86_64||1662296|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/musl-1.2.5-3-x86_64.gris|9f8f15421a665ca1b20349badd82db25f6556248e858f270af0eeff170b276e7
 nano|8.0-1|x86_64|ncurses musl|305284|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/nano-8.0-1-x86_64.gris|3abcaba6813956951fb3dd944bcc953b31e4b5cd3972b807606d1fb365c3b4b5
 ncurses|6.5-1|x86_64||779536|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/ncurses-6.5-1-x86_64.gris|2854a03140a09a0acaa68f2a15312bd0a61f2884ab8941b63d42e66247de0883
 tcc|0.9.27-1|x86_64|musl|270624|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/tcc-0.9.27-1-x86_64.gris|39a74c4ffb729e8771a3986194b7d2d24b3242030d9f40bf6ca8d7a7f8ffa5a0
 tree|2.1.1-1|x86_64||86924|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/tree-2.1.1-1-x86_64.gris|2b8d1cd621c1fcb56c68c88fbfdb3fca6758f641bf50d260c1812a66ba40f204
+util-macros|1.20.1-1|x86_64|xorgproto|21312|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/util-macros-1.20.1-1-x86_64.gris|e6267f39814e19b8229a77e1f86e692879e9fb53d7b1d13ceae4f74f5ab13d97
+xcb-proto|1.17.0-1|x86_64|xorgproto|124824|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/xcb-proto-1.17.0-1-x86_64.gris|8ebb3a1ada302c948f42b7c86da3e7220417f11d20094371f9c9ea006dc19b85
+xorgproto|2024.1-1|x86_64||524252|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/xorgproto-2024.1-1-x86_64.gris|31a57ba65b6f25b3b72d3e844409d0ed9338ee21a0c250614b0555ece4042a02
+xtrans|1.5.0-1|x86_64|xorgproto|39500|https://kaktusok17-star.github.io/aethel-repo/core/x86_64/xtrans-1.5.0-1-x86_64.gris|fb7b93983843541bba0c1ceedba5daed2e9bb25cc78ff209c25af8e5aedefff6
